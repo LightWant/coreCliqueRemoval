@@ -1,0 +1,2 @@
+/opt/rh/devtoolset-9/root/usr/bin/ar qc libGraph.a CMakeFiles/Graph.dir/graph.cpp.o
+/opt/rh/devtoolset-9/root/usr/bin/ranlib libGraph.a

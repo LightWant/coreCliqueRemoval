@@ -1,0 +1,2 @@
+/opt/rh/devtoolset-9/root/usr/bin/ar qc libMCE.a CMakeFiles/MCE.dir/mcecrrv3.cpp.o
+/opt/rh/devtoolset-9/root/usr/bin/ranlib libMCE.a

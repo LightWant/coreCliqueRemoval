@@ -1,0 +1,1 @@
+g++  -std=c++14 -march=native -mavx -O3 CMakeFiles/kcc.dir/src/run/kclistCliqueRunner.cpp.o -o bin/kcc  src/graph/libGraph.a src/clique/libkCListClique.a src/graph/libGraph.a 

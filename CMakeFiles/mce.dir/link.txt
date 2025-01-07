@@ -1,0 +1,1 @@
+g++  -std=c++14 -march=native -mavx -O3 CMakeFiles/mce.dir/src/run/maximalCliqueLargeClique.cpp.o -o bin/mce  src/graph/libGraph.a src/MClique/libMCE.a src/graph/libGraph.a 

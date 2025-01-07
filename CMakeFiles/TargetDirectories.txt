@@ -1,0 +1,15 @@
+/home/yexw/coreCliqueRemoval/CMakeFiles/kcc.dir
+/home/yexw/coreCliqueRemoval/CMakeFiles/mce.dir
+/home/yexw/coreCliqueRemoval/CMakeFiles/edit_cache.dir
+/home/yexw/coreCliqueRemoval/CMakeFiles/rebuild_cache.dir
+/home/yexw/coreCliqueRemoval/src/graph/CMakeFiles/Graph.dir
+/home/yexw/coreCliqueRemoval/src/graph/CMakeFiles/edit_cache.dir
+/home/yexw/coreCliqueRemoval/src/graph/CMakeFiles/rebuild_cache.dir
+/home/yexw/coreCliqueRemoval/src/clique/CMakeFiles/kCListClique.dir
+/home/yexw/coreCliqueRemoval/src/clique/CMakeFiles/edit_cache.dir
+/home/yexw/coreCliqueRemoval/src/clique/CMakeFiles/rebuild_cache.dir
+/home/yexw/coreCliqueRemoval/src/tools/CMakeFiles/edit_cache.dir
+/home/yexw/coreCliqueRemoval/src/tools/CMakeFiles/rebuild_cache.dir
+/home/yexw/coreCliqueRemoval/src/MClique/CMakeFiles/MCE.dir
+/home/yexw/coreCliqueRemoval/src/MClique/CMakeFiles/edit_cache.dir
+/home/yexw/coreCliqueRemoval/src/MClique/CMakeFiles/rebuild_cache.dir
